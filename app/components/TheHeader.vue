@@ -328,7 +328,6 @@ const programsLinks = [
 const aboutLinks = [
   { name: 'About Joanna', href: '/about' },
   { name: 'The Journey', href: '/journey' },
-  { name: 'The Research', href: '/about/research' },
 ]
 
 const communityLinks = [
